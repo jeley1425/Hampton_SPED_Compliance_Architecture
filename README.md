@@ -26,4 +26,4 @@ The clustering mechanism takes these individual variations, rolls them into camp
 Tech Stack & Framework Infrastructure
 Programming Language: Python 3
 Development Environment: Google Colab / Jupyter Notebooks
-Core Core Libraries:** Scikit-Learn (StandardScaler, KMeans), Pandas, NumPy, Matplotlib, Seaborn
+Core Core Libraries: Scikit-Learn (StandardScaler, KMeans), Pandas, NumPy, Matplotlib, Seaborn
